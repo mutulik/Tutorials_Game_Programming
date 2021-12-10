@@ -1,4 +1,4 @@
-#Learning Journal
+# Learning Journal
 
 ## 05/10/2021
 If Time.deltaTime is used in a C# equation, the values need to be higher in order for different components to work at a normal speed.
